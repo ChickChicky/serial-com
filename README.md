@@ -1,6 +1,6 @@
 # Serial Communication Test
 
-I just wanted to try to make a simple serial communication project?
+I just wanted to try to make a simple serial communication project.
 There are two workers that represent two devices and they share some memory to communicate together.
 Since I could not find any builtin way to create an array of individual bits, I use Buffer and Uint8Array, but only write 1 or 0's.
 
